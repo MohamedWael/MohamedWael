@@ -1,12 +1,26 @@
 # Welcome to my profile 👋
+
+[<img src="https://img.shields.io/badge/Mohamed%20Wael-Welcom%20to%20my%20profile%20👋-brightgreen" />](https://github.com/mohamedwael)
+
 Hi, This is Mohamed Wael, I'm an Android developer. Feel free to explore my open source projects and share with me your opinion.
 
 
-## Find me social media:
-[<img src="images/twitter-logo.png" alt="https://twitter.com/imohamedwael" width="60" height="60" padding="50" />](https://twitter.com/imohamedwael)
-[<img src="images/linkedin-logo.png" alt="https://www.linkedin.com/in/mohamedwael/" width="60" height="60"/>](https://www.linkedin.com/in/mohamedwael/)
-[<img src="images/telegram-logo.png" alt="https://t.me/mohamedwael" width="55" height="55"/>](https://t.me/mohamedwael)
 
+
+
+
+## Find me social media:
+<p align="center">
+ <a href="https://twitter.com/imohamedwael"><img src="https://img.shields.io/badge/iMohamedWael-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+ <a href="https://www.linkedin.com/in/mohamedwael/"><img src="https://img.shields.io/badge/MohamedWael-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+ <a href="https://t.me/mohamedwael"><img src="https://img.shields.io/badge/MohamedWael-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
+</p>
+
+
+[![Wael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedwael&count_private=true&show_icons=true)](https://github.com/mohamedwael)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedwael&layout=compact)](https://github.com/mohamedwael)
 
 
 <!--
