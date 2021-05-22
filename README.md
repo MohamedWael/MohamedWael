@@ -1,13 +1,6 @@
 # Welcome to my profile 👋
 
-[<img src="https://img.shields.io/badge/Mohamed%20Wael-Welcom%20to%20my%20profile%20👋-brightgreen" />](https://github.com/mohamedwael)
-
-Hi, This is Mohamed Wael, I'm an Android developer. Feel free to explore my open source projects and share with me your opinion.
-
-
-
-
-
+ Hi, This is Mohamed Wael, I'm an Android developer. Feel free to explore my open source projects and share with me your opinion.
 
 ## Find me social media:
 <p align="center">
