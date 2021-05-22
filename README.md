@@ -3,9 +3,9 @@ Hi, This is Mohamed Wael, I'm an Android developer. Feel free to explore my open
 
 
 ## Find me social media:
-[<img src="images/twitter-logo.png" alt="https://twitter.com/imohamedwael" width="45" height="45" />](https://twitter.com/imohamedwael)
-[<img src="images/linkedin-logo.png" alt="https://www.linkedin.com/in/mohamedwael/" width="45" height="45"/>](https://www.linkedin.com/in/mohamedwael/)
-[<img src="images/telegram-logo.png" alt="https://t.me/mohamedwael" width="45" height="45"/>](https://t.me/mohamedwael)
+[<img src="images/twitter-logo.png" alt="https://twitter.com/imohamedwael" width="60" height="60" padding="50" />](https://twitter.com/imohamedwael)
+[<img src="images/linkedin-logo.png" alt="https://www.linkedin.com/in/mohamedwael/" width="60" height="60"/>](https://www.linkedin.com/in/mohamedwael/)
+[<img src="images/telegram-logo.png" alt="https://t.me/mohamedwael" width="55" height="55"/>](https://t.me/mohamedwael)
 
 
 
