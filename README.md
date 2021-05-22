@@ -1,8 +1,11 @@
-### Welcome to my profile 👋
+# Welcome to my profile 👋
+Hi, This is Mohamed Wael, I'm an Android developer. Feel free to explore my open source projects and share with me your opinion.
 
-[Find me on LinkedIn](https://www.linkedin.com/in/mohamedwael/) 
 
-[Find me on Twitter](https://twitter.com/imohamedwael)
+## Find me social media:
+[<img src="images/twitter-logo.png" alt="https://twitter.com/imohamedwael" width="45" height="45" />](https://twitter.com/imohamedwael)
+[<img src="images/linkedin-logo.png" alt="https://www.linkedin.com/in/mohamedwael/" width="45" height="45"/>](https://www.linkedin.com/in/mohamedwael/)
+
 
 <!--
 **MohamedWael/MohamedWael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
