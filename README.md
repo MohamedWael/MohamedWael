@@ -2,7 +2,7 @@
 
  Hi, This is Mohamed Wael, I'm an Android developer. Feel free to explore my open source projects and share with me your opinion.
 
-## Find me social media:
+## Ask me anything on:
 <p align="center">
  <a href="https://twitter.com/imohamedwael"><img src="https://img.shields.io/badge/iMohamedWael-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
  <a href="https://www.linkedin.com/in/mohamedwael/"><img src="https://img.shields.io/badge/MohamedWael-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
