@@ -1,6 +1,6 @@
 # Welcome to my profile 👋
 
- Hi, This is Mohamed Wael, I'm an Android developer. Feel free to explore my open source projects and share with me your opinion.
+ Hi, This is Mohamed Wael, I'm an Android developer. Feel free to explore my open source projects and share with me your thoughts.
 
 ## Ask me anything on:
 <p align="center">
@@ -11,6 +11,7 @@
 
 
 <!--
+
 [![Wael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedwael&count_private=true&show_icons=true)](https://github.com/mohamedwael)
 
 
