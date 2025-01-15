@@ -9,6 +9,7 @@
  <a href="https://t.me/mohamedwael"><img src="https://img.shields.io/badge/MohamedWael-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
 </p>
 
+Mail: iMohamedWael@outlook.com
 
 ## Or hire me on [Upwork](https://www.upwork.com/freelancers/~01e2842ce35ec3cc66)
 
